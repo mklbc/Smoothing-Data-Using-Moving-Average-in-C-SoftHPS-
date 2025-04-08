@@ -1,1 +1,1 @@
-# Smoothing-Data-Using-Moving-Average-in-C-SoftHPS-
+# Smoothing-Data-Using-Moving-Average-in-C++-SoftHPS-
